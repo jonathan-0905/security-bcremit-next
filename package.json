@@ -34,7 +34,7 @@
     "lucide-react": "^0.378.0",
     "motion": "^12.1.0",
     "nanoid": "^5.0.9",
-    "next": "^14.2.25",
+    "next": "^15.5.10",
     "next-i18n-router": "^5.5.1",
     "nodemailer": "^6.9.14",
     "persona": "^5.1.0",
